@@ -24,4 +24,4 @@ Interested in travel, health, and computer theory.
 
 * I managed the fully bespoke in-house data architecture, transformation, and business logic for Intel's E2E supply chain of NAND SSDs. The application suite I ran for was used to plan the optimal supply chain based on our internal constraint optimization model.
 
-* When Intel sold it's $9 Billion supply chain to SK Hynix, I lead the divestiture process for a team of 10, to segment from Intel's legacy system and stand up independent infrastructure. When our upstream systems failed to exit on time, I replicated the data streams to ensure we had 0 downtime for our supply chain. 
+* When Intel sold it's $9 Billion supply chain to SK Hynix, I led the divestiture process for a team of 10, to segment from Intel's legacy system and stand up independent infrastructure. When our upstream systems failed to exit on time, I replicated the data streams to ensure we had 0 downtime for our supply chain. 
