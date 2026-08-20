@@ -5,6 +5,9 @@
 Welcome to my website. 
 
 
-I built a corporate career as a data engineer and now I am building better state management tools for crypto applications.
+I am building better state management primitives for crypto applications. 
+I used to build supply chains and banking solutions during my corporate career and I learned a lot about state management and data.  
 
+
+My current work combines cryptography, satisfiability modulo theory, distributed systems, and a dash of type theory. 
 
