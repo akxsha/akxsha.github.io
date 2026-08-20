@@ -5,8 +5,10 @@
 Welcome to my website. 
 
 
-I am building better state management primitives for crypto applications.    
-I used to build supply chains and banking solutions during my corporate career and I learned a lot about state management and data.  
+I used to build supply chains and banking workflows during my corporate career which taught me a lot about state management.   
+
+Now I build better state management primitives for crypto applications.    
+(Because I believe with a few added tools, blockchain have the power to support supply chains and banking workflows.)
 
 
 My current work combines cryptography, satisfiability modulo theory, distributed systems, and a dash of type theory. 
