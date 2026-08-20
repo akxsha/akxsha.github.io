@@ -1,11 +1,11 @@
 ## About me
 
-#### Preamble 
+### Preamble 
 Born and raised in the CA Bay Area. 
 
 Interested in travel, health, and computer theory.
 
-#### Resume:   
+### Resume:   
 
 
 **Currently:**
