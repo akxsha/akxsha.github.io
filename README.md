@@ -5,7 +5,7 @@
 Welcome to my website. 
 
 
-I am building better state management primitives for crypto applications. 
+I am building better state management primitives for crypto applications.    
 I used to build supply chains and banking solutions during my corporate career and I learned a lot about state management and data.  
 
 
