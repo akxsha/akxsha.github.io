@@ -17,7 +17,8 @@ Interested in travel, health, and computer theory.
   
 * I managed the relationship between AMEX and our third party technical vendors. I worked across business functions to manage the technical integrations, financial projections, product rollouts, promotions that drove traffic, and other business related processes like negotiating contracts, maintaining compliance, and operational excellence.   
 
-* During this role, I established business-wide policy for our banking products with the support of the internal Chair of the Credit Bureau.   
+* During this role, I established business-wide policy for our banking products with the support of the internal Chair of the Credit Bureau.
+  
 * I also supported the American Express Blockchain initiative where I discovered how hard it was to build complex business logic with the current web3 tools that are available in the current market.
 
 > Data Engineer - Intel / SK Hynix: Supply Chain Optimization
