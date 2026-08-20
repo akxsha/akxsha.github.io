@@ -1,12 +1,12 @@
 ## About me
 
-Resume: 
+Resume:   
 
 
-Currently: Concordance 
+Currently: Concordance  
 
-Previously: 
+Previously:  
 
-Manager - American Express: Third-party Data Strategy
+Manager - American Express: Third-party Data Strategy  
 
 Data Engineer - Intel / SK Hynix: Supply Chain Optimization
