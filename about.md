@@ -1,7 +1,7 @@
 ## About me
 
 #### Preamble 
-Born and raised in the Bay Area. 
+Born and raised in the CA Bay Area. 
 
 Interested in travel, health, and computer theory.
 
