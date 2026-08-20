@@ -3,13 +3,13 @@
 #### Preamble 
 Born and raised in the Bay Area. 
 
-Interested in travel, health, and computer theory 
+Interested in travel, health, and computer theory.
 
 #### Resume:   
 
 
 Currently: 
-> Concordance  
+> Concordance - A runtime for crypto applications
 
 Previously:  
 
