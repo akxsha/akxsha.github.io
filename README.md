@@ -1,4 +1,4 @@
-<div style="background-color: #000000; color: #ffffff; padding: 20px;">
+### Akasha Stallworth
 
 Welcome to my website. 
 
@@ -10,4 +10,4 @@ Technical memos.
 
 Experiments for fun & learning.
 
-</div>
+
