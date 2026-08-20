@@ -2,10 +2,6 @@
 
 ---
 
-# Akasha Stallworth
-
-Welcome to my website.### Akasha Stallworth
-
 Welcome to my website. 
 
 More about me.
