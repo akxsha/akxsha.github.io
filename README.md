@@ -1,4 +1,10 @@
-### Akasha Stallworth
+[Home](index.md) | [About](about.md) | [Projects](projects.md) | [Contact](contact.md)
+
+---
+
+# Akasha Stallworth
+
+Welcome to my website.### Akasha Stallworth
 
 Welcome to my website. 
 
