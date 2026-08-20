@@ -3,7 +3,8 @@
 Resume:   
 
 
-Currently: Concordance  
+Currently: 
+> Concordance  
 
 Previously:  
 
