@@ -1,4 +1,4 @@
-[Home](README.md)  *  [About](about.md)  *  [Projects](projects.md)  *  [Contact](contact.md)
+[Home](README.md)  *  [About](about.md)  *  [Contact](contact.md)
 
 ---
 
