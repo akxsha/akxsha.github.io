@@ -4,12 +4,7 @@
 
 Welcome to my website. 
 
-More about me.
 
-Some things that I've written.
-
-Technical memos.
-
-Experiments for fun & learning.
+I'm a data engineer working on better state management for web3 applications. 
 
 
